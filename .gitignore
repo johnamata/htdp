@@ -1,0 +1,9 @@
+# MacOS file
+.DS_Store
+
+# mac/unix  autosave file
+*.rkt[#]*
+*.rkt~
+
+# windows autosave file
+# *.bak
