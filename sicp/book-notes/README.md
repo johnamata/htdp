@@ -1,0 +1,1 @@
+section where i just play around with scheme code for each chapte, making comments every now and then - which will do as my notes for now. perhaps i'll just write some proper notes and publish it on my blog later
