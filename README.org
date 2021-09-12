@@ -1,0 +1,21 @@
+* About
+
+To improve my computer science knowledge, I am going through notorious books famous in computer science that are often well recommended for improving one's ability in software engineering. For example HtDP and SICP are heavily shilled in hacker news and gets great reviews by well-known successful programmers like [[https://www.amazon.com/review/R403HR4VL71K8][Peter Norvig]]. This repo is where I'll be putting my solutions and notes as I go through such books, namely: SICP, HTDP, K&R's C, and probably 1 haskell/ML book.
+
+** directories
+
+*** core
+
+My core goals. Aiming to finish to do at least 80% of the exercises from the following:
+
+- htdp: my notes and solutions in [[https://racket-lang.org/][Racket]] for the book [[https://htdp.org/2021-5-4/Book/index.html][How to Design Programs]]
+
+- sicp: my notes and solutions in [[https://en.wikipedia.org/wiki/Scheme_(programming_language)][Scheme]] for the book [[https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book.html][Structure and Interpretation of Computer Programs]], also known as the "wizard book"
+
+- tcpl2: my solutions in [[https://en.wikipedia.org/wiki/C_(programming_language)][C]] as I go through exercises in Kernighan and Ritchie's classic book, "[[https://en.wikipedia.org/wiki/The_C_Programming_Language][The C Programming Language]]"
+
+*** others
+
+The not so important stuff. Just mainly to give myself more practice and to make myself feel productive on days I'm too bored to work on my core goals.
+
+- concrete: my notes and solutions for the book [[https://www.amazon.com/Concrete-Abstractions-Introduction-Computer-Science/dp/0534952119][Concrete Abstractions]] by Max Hailperin. Not planning to finish it, feels like HtDP will do me more benefit. Just using it as a way to gain more practice in Scheme
