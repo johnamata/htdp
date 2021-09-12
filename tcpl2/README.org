@@ -1,0 +1,42 @@
+* This Repo
+** About
+
+- this repo include my notes as I go through a bunch of projects in C, and these projects will eventually have their own *.org* file that includes my notes for what i learned on each of them
+- notably, this repo also contains my solutions as I work through the exercises in the book, The C Programming Language (TCPL), 2nd Edition
+
+** Projects
+
+- a brief info about each project
+
+*** compilers/interpreters
+
+- clisp: a lisp interpreter
+
+** The C Programming Language, 2nd Edition (1988)
+- about the book: [[https://en.wikipedia.org/wiki/The_C_Programming_Language][https://en.wikipedia.org/wiki/The_C_Programming_Language]]
+
+*** Get the book
+
+- PDF/Epub: [[https://archive.org/details/The_C_Programming_Language][https://archive.org/details/The_C_Programming_Language]]
+- buy it: [[https://www.amazon.com/Programming-Language-2nd-Brian-Kernighan/dp/0131103628/][https://www.amazon.com/Programming-Language-2nd-Brian-Kernighan/dp/0131103628/]]
+
+*** a nice review of the book i found at amazon (top review at the time of this writing)
+
+[[https://www.amazon.com/gp/customer-reviews/R2GO0Q2LPQ8UHS/][https://www.amazon.com/gp/customer-reviews/R2GO0Q2LPQ8UHS/]]
+
+It doesn't get much better than this
+
+I'm not new to programming; in fact I've been doing it professionally for the past decade. Although I've played around in quite a few different languages, most of my work over the last 6 years has been in .NET (C# mainly). I have always had an interest in C because I love its simplicity. Also, it's a language which brings one closer to the machine, stripping away many of the abstractions that higher level languages provide. Higher level languages (such as Java, C#, Python, etc.) are massive and powerful with HUGE frameworks, but I'm attracted to simple things.
+
+This book is a feisty little devil! I had heard of this book before diving in (it is a classic), but its size and table of contents lead me to believe I would breeze right through it. Wrong! Picking up the syntax wasn't too difficult and I have a fairly good handle on more advanced concepts like pointers already, but this book is absolutely packed with exercises and many of them are quite challenging!
+
+Here's one:
+"Write a program to check a C program for syntax errors like unbalanced parenthesis, brackets and braces. Don't forget about quotes, both single and double, escape sequences, and comments."
+
+This is a chapter 1 exercise! Chapter 1 is just a tutorial introduction chapter and this is one 1 of 24 exercises in this chapter! No wonder it takes people years to work through this tiny book. I'm only about halfway through as I write this review.
+
+This book is the perfect blend of reference material, practical knowledge and challenging exercises. There is absolutely no fluff and not a single word is wasted. I grow tired of pouring through 1,000+ page tomes. The appendices are also very well structured and extremely helpful.
+
+Although I do virtually no C coding professionally, I can say for certain that this book has leveled up my skill-set. Working through these exercises has helped me with logical thinking and having a better understanding of coding closer to the machine has improved me as a developer overall. I'm one who believes that this book is great for all programmers, even if you never write a line of C after working through this book. I'm really loving the C language!
+
+Whether you are a beginner or experienced it's worth having this book. Though this will be quite tough for total beginners, I say it's still work picking up and pairing it with a more beginner-friendly book. Unfortunately I cannot recommend such a book at this time because this is the only C book I've worked through.
